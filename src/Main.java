@@ -78,7 +78,7 @@ public class Main {
                 System.out.println("Месяц " + monthNumber + " принадлежит к осеннему сезону");
                 break;
             default:
-                System.out.println("Данные введены некорректно");
+                System.out.println("Данные введены некорректно ");
         }
 
 
